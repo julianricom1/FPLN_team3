@@ -4,3 +4,4 @@
 .venv
 .python-version
 .tool-versions
+__pycache__/*
